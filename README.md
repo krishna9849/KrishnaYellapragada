@@ -17,10 +17,10 @@
     <i class="fa-brands fa-facebook">My Facebook</i> -->
  </a>
 
-<br />
+<!-- <br /> -->
 
 
-<br />
+<!-- <br /> -->
 
 Hi, I'm [Krishna Yellapragada!](https://github.com/krishna9849), a MERN Stack Web Developer 🚀 from Hyderabad.
 

@@ -12,9 +12,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty) -->
 
 <br />
-
+<!-- 
 <a href="https://www.facebook.com/krishna984931058/">
-    <i class="fa-brands fa-facebook">My Facebook</i>
+    <i class="fa-brands fa-facebook">My Facebook</i> -->
  </a>
 
 <br />
@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Krishna Yellapragada!](https://github.com/krishna9849), a Full Stack Web Developer 🚀 from Hyderabad.
+Hi, I'm [Krishna Yellapragada!](https://github.com/krishna9849), a MERN Stack Web Developer 🚀 from Hyderabad.
 
 
   
